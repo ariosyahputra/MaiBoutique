@@ -1,0 +1,12 @@
+.profile {
+    background-color: var(--secondary-color);
+    min-height: 46vh;
+}
+
+.role {
+    color: white!important;
+    background-color: #0E185F!important;
+    font-size: 0.95rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}

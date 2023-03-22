@@ -1,0 +1,32 @@
+form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-floating>.form-control,
+.form-floating>.form-control-plaintext {
+  padding: 1rem .75rem;
+  margin-top: 1.5rem;
+}
+
+.form-sign-in {
+  background-color: var(--secondary-color);
+  height: auto;
+}
+
+.remember-forgot {
+  margin-top: 1.5rem;
+  font-size: 0.875rem;
+}
+
+.remember-me input {
+  margin-top: 0.15rem;
+}
+
+::-ms-reveal {
+    margin-right: 1.25em;
+    margin-top: -1em;
+}
+
+.to-register {
+  font-size: 0.875rem;
+}

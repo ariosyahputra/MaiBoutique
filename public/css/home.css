@@ -1,0 +1,12 @@
+.background {
+    background-color: var(--secondary-color);
+}
+
+.home {
+    min-height: 85vh;
+}
+
+.cloth-image {
+    width: 15rem;
+    height: auto;
+}

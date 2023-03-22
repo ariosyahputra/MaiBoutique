@@ -1,0 +1,13 @@
+.form-sign-up {
+  background-color: var(--secondary-color);
+  height: auto;
+}
+
+::-ms-reveal {
+    margin-right: 1.25em;
+    margin-top: -1em;
+}
+
+.to-login {
+  font-size: 0.875rem;
+}

@@ -1,0 +1,30 @@
+.search-bar {
+    background-color: var(--secondary-color);
+}
+
+.search-bar::placeholder{
+    color: var(--main-color) !important;
+}
+
+.search-logo {
+    position: absolute;
+    top: 20%;
+    right: 1.5%;
+    color: var(--main-color);
+    width: 1.2rem;
+}
+
+@media only screen and (max-width: 576px) {
+    .search-logo {
+        top: 20%;
+        right: 2%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .search-logo {
+        top: 20%;
+        right: 1%;
+    }
+}
+
